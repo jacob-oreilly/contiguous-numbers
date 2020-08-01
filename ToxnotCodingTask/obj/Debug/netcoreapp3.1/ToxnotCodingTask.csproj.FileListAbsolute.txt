@@ -1,0 +1,13 @@
+C:\Users\Jacob\source\repos\ToxnotCodingTask\ToxnotCodingTask\bin\Debug\netcoreapp3.1\ToxnotCodingTask.exe
+C:\Users\Jacob\source\repos\ToxnotCodingTask\ToxnotCodingTask\bin\Debug\netcoreapp3.1\ToxnotCodingTask.deps.json
+C:\Users\Jacob\source\repos\ToxnotCodingTask\ToxnotCodingTask\bin\Debug\netcoreapp3.1\ToxnotCodingTask.runtimeconfig.json
+C:\Users\Jacob\source\repos\ToxnotCodingTask\ToxnotCodingTask\bin\Debug\netcoreapp3.1\ToxnotCodingTask.runtimeconfig.dev.json
+C:\Users\Jacob\source\repos\ToxnotCodingTask\ToxnotCodingTask\bin\Debug\netcoreapp3.1\ToxnotCodingTask.dll
+C:\Users\Jacob\source\repos\ToxnotCodingTask\ToxnotCodingTask\bin\Debug\netcoreapp3.1\ToxnotCodingTask.pdb
+C:\Users\Jacob\source\repos\ToxnotCodingTask\ToxnotCodingTask\obj\Debug\netcoreapp3.1\ToxnotCodingTask.csprojAssemblyReference.cache
+C:\Users\Jacob\source\repos\ToxnotCodingTask\ToxnotCodingTask\obj\Debug\netcoreapp3.1\ToxnotCodingTask.AssemblyInfoInputs.cache
+C:\Users\Jacob\source\repos\ToxnotCodingTask\ToxnotCodingTask\obj\Debug\netcoreapp3.1\ToxnotCodingTask.AssemblyInfo.cs
+C:\Users\Jacob\source\repos\ToxnotCodingTask\ToxnotCodingTask\obj\Debug\netcoreapp3.1\ToxnotCodingTask.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\source\repos\ToxnotCodingTask\ToxnotCodingTask\obj\Debug\netcoreapp3.1\ToxnotCodingTask.dll
+C:\Users\Jacob\source\repos\ToxnotCodingTask\ToxnotCodingTask\obj\Debug\netcoreapp3.1\ToxnotCodingTask.pdb
+C:\Users\Jacob\source\repos\ToxnotCodingTask\ToxnotCodingTask\obj\Debug\netcoreapp3.1\ToxnotCodingTask.genruntimeconfig.cache
